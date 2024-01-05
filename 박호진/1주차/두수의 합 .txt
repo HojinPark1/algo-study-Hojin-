@@ -1,0 +1,4 @@
+# 두수의 합
+
+def solution(num1, num2):
+    return num1+num2 # a+b를 의도했습니다.
